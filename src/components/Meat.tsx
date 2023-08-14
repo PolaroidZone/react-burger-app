@@ -1,8 +1,11 @@
 import React from 'react'
+import '../styles/Meat.css'
 
 const meat =() => {
   return (
-    <div className='topBread'></div>
+    <div className='meat'>
+      <p>Meat</p>
+    </div>
   )
 }
 

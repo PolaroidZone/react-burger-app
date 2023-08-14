@@ -2,7 +2,7 @@ import React from 'react';
 import BreadTop from './components/breadTop';
 import BreadBottom from './components/BreadBottom';
 import Tomato from './components/tomato';
-import Lattice from './components/lettice';
+import Lattice from './components/lattice';
 import Meat from './components/Meat';
 
 import './App.css';
