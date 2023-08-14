@@ -1,0 +1,17 @@
+.topBread {
+    width: 600px;
+    height: 100px;
+    border-radius: 50px 50px 0px 0px;
+    background-color:#d2691e;
+}
+
+.bottomBread {
+    width: 600px;
+    height: 100px;
+    border-radius: 0px 0px 50px 50px;
+    background-color:#d2691e;   
+}
+
+p {
+    font-size: 30px;
+}
