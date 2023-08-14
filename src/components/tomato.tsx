@@ -1,8 +1,11 @@
 import React from 'react'
+import '../styles/tomato.css'
 
 const tomato =() => {
   return (
-    <div className='topBread'></div>
+    <div className='tomato'>
+      <p>Tomato</p>
+    </div>
   )
 }
 

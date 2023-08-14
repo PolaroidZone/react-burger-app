@@ -4,3 +4,29 @@
   padding: 0;
 }
 
+.container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.content-body{
+  width: 600px;
+  height: 550px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.content-body p {
+  color: white;
+}
+
+h1 {
+  font-size: 50px;
+}
+
