@@ -1,5 +1,8 @@
 .meat {
     width: 600px;
     height: 100px;
-    background-color: #7f3608;      
+    background-color: #7f3608;  
+    box-shadow: 0px 3px 8px 1px black;
+    margin-top: 5px;
+    margin-bottom: 5px;   
 }
